@@ -11,6 +11,7 @@ documentation, quality information, and product terms before purchasing
 the complete buyer-facing package.
 
 ------------------------------------------------------------------------
+👉 **[View Free Preview on Google Drive]([https://drive.google.com/file/d/123456789/view?usp=sharing](https://docs.google.com/spreadsheets/d/1IaSk-AWto0bj-GiQGjFm-gZGH8yF82B5/edit?usp=sharing&ouid=101626046802781459639&rtpof=true&sd=true)**
 
 ## Preview Contents
 
