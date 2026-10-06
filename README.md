@@ -11,7 +11,17 @@ documentation, quality information, and product terms before purchasing
 the complete buyer-facing package.
 
 ------------------------------------------------------------------------
-👉 **[View Free Preview on Google Drive]([https://drive.google.com/file/d/123456789/view?usp=sharing](https://docs.google.com/spreadsheets/d/1IaSk-AWto0bj-GiQGjFm-gZGH8yF82B5/edit?usp=sharing&ouid=101626046802781459639&rtpof=true&sd=true)**
+👉 **[View Free Dataset Preview on Google Sheets]([https://docs.google.com/spreadsheets/d/1IaSk-AWto0bj-GiQGjFm-gZGH8yF82B5/edit?usp=sharing&ouid=101626046802781459639&rtpof=true&sd=true)**
+
+## 🚀 Get the Complete OFAC Sanctions Intelligence Dataset
+
+Need the complete, analysis-ready dataset?
+
+The full commercial package provides structured OFAC sanctions data designed for research, compliance analytics, testing, and data workflows.
+
+👉 **[Get the Full Dataset on Gumroad](https://italtitudes.gumroad.com/l/zkltfw)**
+
+**Plug-and-Play:** No SQL setup or ETL scripts required. Start working with the data directly in Excel, Python, or R.
 
 ## Preview Contents
 
@@ -26,55 +36,46 @@ The Excel preview includes:
 -   Buyer Value / use-case information
 -   Product disclosure and important limitations
 
-### Workbook Sheets
+### 📑 Workbook Sheets
 
-  -----------------------------------------------------------------------
-  Sheet                               Purpose
-  ----------------------------------- -----------------------------------
-  `BUYER_PREVIEW`                     Overview of the preview package
-
-  `SAMPLE_FINAL_DATA`                 50 representative primary records
-
-  `SAMPLE_ADDRESSES`                  Linked address examples
-
-  `SAMPLE_ALIASES`                    Linked alias examples
-
-  `DATA_DICTIONARY`                   Field definitions and data
-                                      structure
-
-  `QUALITY_SNAPSHOT`                  Preview-level quality information
-
-  `BUYER_VALUE`                       Potential research and development
-                                      use cases
-
-  `PRODUCT_DISCLOSURE`                Product positioning, limitations
-                                      and disclosures
-  -----------------------------------------------------------------------
+| Sheet | Purpose |
+|---|---|
+| `BUYER_PREVIEW` | Overview of the preview package |
+| `SAMPLE_FINAL_DATA` | 50 representative primary records |
+| `SAMPLE_ADDRESSES` | Linked address examples |
+| `SAMPLE_ALIASES` | Linked alias examples |
+| `DATA_DICTIONARY` | Field definitions and data structure |
+| `QUALITY_SNAPSHOT` | Preview-level quality information |
+| `BUYER_VALUE` | Potential research and development use cases |
+| `PRODUCT_DISCLOSURE` | Product positioning, limitations, and disclosures |
 
 ------------------------------------------------------------------------
 
-## Full Dataset Package
+## 🚀 Full Dataset Package
 
-The complete IT Altitudes buyer-facing package contains:
+The complete IT Altitudes commercial package expands the free preview into a comprehensive, analysis-ready OFAC sanctions dataset.
 
--   **19,391 primary records**
--   **25,161 linked address records**
--   **20,205 linked alias records**
--   Data Dictionary
--   Source-to-Final Mapping
--   Methodology
--   Source Provenance
--   Limitations
--   Buyer Use Cases
--   Privacy & Compliance information
--   Quality Summary
--   QA Results
--   License & Usage Terms
--   Product Summary
+### Full Package Includes
 
-The full package is provided separately through the IT Altitudes
-commercial product.
+- **19,391 primary records**
+- **25,161 linked address records**
+- **20,205 linked alias records**
+- Data Dictionary
+- Source-to-Final Mapping
+- Methodology
+- Source Provenance
+- Quality Summary & QA Results
+- Buyer Use Cases
+- Privacy & Compliance Information
+- Limitations & Disclosures
+- License & Usage Terms
+- Product Summary
 
+### ⚡ Plug-and-Play
+
+No SQL setup or ETL scripts required. The dataset is structured for immediate exploration and analysis in **Excel, Python, or R**.
+
+👉 **[Get the Complete Dataset on Gumroad](https://italtitudes.gumroad.com/l/zkltfw)**
 ------------------------------------------------------------------------
 
 ## Source & Provenance
@@ -92,52 +93,46 @@ and quality documentation around the source data.
 
 ------------------------------------------------------------------------
 
-## Potential Use Cases
+## 🔍 Potential Use Cases
 
-The dataset may be useful for lawful informational, research,
-analytical, and development activities such as:
+The dataset may be useful for lawful research, analytical, testing, and development activities, including:
 
--   Sanctions-data research
--   AML/KYC research
--   Compliance technology development
--   Screening-logic prototyping and testing
--   Data engineering and transformation
--   Entity-resolution experiments
--   Risk and due-diligence research
--   Data analytics
--   Software and workflow testing
--   Academic and educational research
-
-These examples describe potential uses and do not constitute legal or
-regulatory advice.
+- Sanctions-data research
+- AML/KYC research
+- Compliance technology development
+- Screening-logic prototyping and testing
+- Entity-resolution experiments
+- Risk and due-diligence research
+- Data engineering and transformation
+- Data analytics
+- Software and workflow testing
+- Academic and educational research
 
 ------------------------------------------------------------------------
 
-## Important Notice
+## ⚠️ Important Notice
 
 This GitHub repository contains a **limited preview only**.
 
-The preview is provided for informational, research, analytical, and
-development evaluation purposes.
+The preview is provided for informational, research, analytical, testing, and development evaluation purposes.
 
 It is **not**:
 
--   Legal advice
--   Regulatory advice
--   A sanctions-clearance determination
--   A compliance certification
--   A guarantee of regulatory compliance
--   A substitute for current official OFAC information
--   A live or real-time sanctions screening service
+- Legal advice
+- Regulatory advice
+- A sanctions-clearance determination
+- A compliance certification
+- A guarantee of regulatory compliance
+- A substitute for current official OFAC information
+- A live or real-time sanctions screening service
 
-OFAC may update its sanctions information after the source snapshot used
-for this dataset. Buyers should independently verify current information
-against authoritative sources before making high-stakes, legal,
-regulatory, transactional, or rights-affecting decisions.
+### Data Freshness
 
-A name match by itself does not establish that two records represent the
-same individual or entity, and a non-match does not establish that a
-person or entity is unrestricted.
+This dataset is a **static reference snapshot** based on source data downloaded on **September 28, 2026**.
+
+OFAC may update its sanctions information after the source snapshot date. Users should independently verify current information against authoritative sources before making high-stakes, legal, regulatory, transactional, or rights-affecting decisions.
+
+A name match by itself does not establish that two records represent the same individual or entity, and a non-match does not establish that a person or entity is unrestricted.
 
 ------------------------------------------------------------------------
 
@@ -194,12 +189,13 @@ activities.
 
 ------------------------------------------------------------------------
 
-## Product Availability
+## 🛒 Product Availability
 
-The complete buyer-facing dataset is available commercially through **IT
-Altitudes**.
+The complete buyer-facing dataset is available commercially through **IT Altitudes**.
 
-For product availability, purchasing information, or support:
+👉 **[Get the Complete Dataset on Gumroad](https://italtitudes.gumroad.com/l/zkltfw)**
+
+For product questions or support:
 
 **Email:** support@italtitudesdataset.zohodesk.in
 
