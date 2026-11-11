@@ -220,3 +220,12 @@ and product disclosures** before purchasing the complete package.
 For current sanctions information and authoritative screening decisions,
 users should consult the applicable official government sources and
 perform their own verification.
+
+## Explore More Datasets from IT Altitudes Inc.
+
+- [US CRE Loan Maturity & Risk](https://github.com/ITAltitudesDataset/us-cre-loan-maturity-risk-dataset-preview)
+- [US Area Codes & Geographic Reference](https://github.com/ITAltitudesDataset/us-area-codes-dataset-preview)
+- [Global Tariff Realignment](https://github.com/ITAltitudesDataset/Global-Tariff-Realignment-Dataset-Preview)
+- [Geothermal Electricity Capacity](https://github.com/ITAltitudesDataset/geothermal-electricity-capacity-dataset)
+
+**[Explore Our Complete Dataset Catalog](https://github.com/ITAltitudesDataset)**
