@@ -25,7 +25,21 @@ The full commercial package provides structured OFAC sanctions data designed for
 
 ## Preview Contents
 
-The Excel preview includes:
+## Available Preview Formats
+
+The OFAC Sanctions Dataset buyer preview is available in three formats:
+
+- **Excel (.xlsx)** — For spreadsheet analysis and exploration.
+- **CSV (.csv)** — For Python, R, SQL, and data processing.
+- **JSON (.json)** — For application development and integration testing.
+
+All formats are provided for convenient evaluation of the free preview.
+
+**[Explore the Complete OFAC Sanctions Buyer Kit](https://italtitudes.gumroad.com/l/zkltfw)**
+
+Explore the Complete OFAC Sanctions Buyer Kit
+
+The preview includes:
 
 -   **50 representative primary records**
 -   **91 linked address records** associated with the preview entities
