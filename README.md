@@ -235,6 +235,17 @@ For current sanctions information and authoritative screening decisions,
 users should consult the applicable official government sources and
 perform their own verification.
 
+---
+
+## License & Disclaimer
+
+- [Preview License & Usage Terms](LICENSE.md)
+- [Source Attribution, Liability Disclaimer & Limitations](DISCLAIMER.md)
+
+This is a static OFAC reference snapshot intended for research and testing, not live sanctions screening.
+
+Official U.S. government source data and IT Altitudes' original value-added materials are subject to their respective applicable rights.
+
 ## Explore More Datasets from IT Altitudes Inc.
 
 - [US CRE Loan Maturity & Risk](https://github.com/ITAltitudesDataset/us-cre-loan-maturity-risk-dataset-preview)
