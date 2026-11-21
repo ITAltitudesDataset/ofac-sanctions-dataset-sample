@@ -251,6 +251,22 @@ The complete buyer kit offers:
 
 ---
 
+## Dataset Preview & Visual Insights
+
+### Sample Data Preview
+
+![OFAC Dataset Preview](ofac_preview_screenshot.png)
+
+### Preview Dataset Coverage
+
+![OFAC Preview Chart](ofac_preview_chart.png)
+
+Explore the sample records, linked addresses, and aliases before purchasing.
+
+**[Get the Complete OFAC Dataset](https://italtitudes.gumroad.com/l/zkltfw)**
+
+---
+
 ## ⚠️ Important Notice
 
 This GitHub repository contains a **limited preview only**.
