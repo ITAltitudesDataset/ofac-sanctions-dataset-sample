@@ -230,6 +230,18 @@ The following use cases illustrate potential applications of the dataset.
 
 **Potential Buyer Value:** Provide organized reference material for academic research, data science education, and compliance technology training.
 
+## Machine Learning Demonstration
+
+Explore our reproducible machine learning example using the OFAC SDN 50-row preview.
+
+The demonstration uses TF-IDF character features and a Nearest Neighbors model to identify textually similar entity names.
+
+**[View OFAC ML Demonstration](ml_demo/README_ML_DEMO.md)**
+
+![OFAC Name Similarity Analysis](ml_demo/ofac_name_similarity_chart.png)
+
+*Educational demonstration only. Similarity scores do not establish identity or sanctions status. This is not a live compliance screening tool.*
+
 ### Why Consider the Complete Buyer Kit?
 
 The free preview provides 50 primary records with linked address and alias examples.
